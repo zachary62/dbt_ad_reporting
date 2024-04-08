@@ -22,3 +22,6 @@ models:
     intermediate:
       +materialized: ephemeral
       +schema: int_ad_reporting
+
+profile: my_dbt_profile
+  
